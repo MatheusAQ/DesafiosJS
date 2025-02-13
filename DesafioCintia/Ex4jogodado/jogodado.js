@@ -1,3 +1,22 @@
+/*
+Desafio 3 - Adicional, Jogo de Dados
+O jogador inicia com 100 pontos, e pode ganhar ou perder pontos ao "jogar" um dado de 6 faces, de acordo com as regras abaixo:
+
+Se o resultado do dado for ímpar, o jogador recebe 10 pontos.
+Se o resultado do dado for par, o jogador perde 5 pontos.
+Se a rodada for múltipla de 3, o jogador ganha 15 pontos.
+Se a rodada for múltipla de 4, o jogador perde 20 pontos.
+Se a pontuação do jogador estiver negativa em qualquer momento, ele perde o dobro pontos até a pontuação estar positivo.
+O jogo é composto por 20 rodadas, e o jogador ganha se ele chegar na 20ª rodada com uma pontuação igual ou superior a 50 pontos.
+Vocês não podem usar arrays para a execução do desafio
+Utilizem os conceitos estudados até o momento para executas.
+O cálculo da pontuação deverá ser exibido, assim como o número da rodada e o resultado do dado.
+A pontuação final deverá ser exibida na última rodada.
+Poderá ser exibido em tela avisos de ganho e perda de pontos
+*/
+
+
+
 let pontos = 10
 let dado = 0
 let rodada = 1
