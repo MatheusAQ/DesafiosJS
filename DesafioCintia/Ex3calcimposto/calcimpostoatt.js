@@ -1,3 +1,12 @@
+/*Desafio 2 - Adicional, Melhoria da Calculadora
+Vamos dar uma evoluída nele!
+
+Até o momento, a pessoa poderia ganhar um desconto randomicamente (ou não). Agora, o comprador pode colocar um cupom "PROMO15", que garante 15% de desconto no valor do produto. A pessoa pode colocar o código OU ganhar o desconto.
+
+Vamos também inserir questão de frete para o envio da compra. O comprador precisa colocar o estado em que ele está. Se for de SP, o frete custa R$10,00. Se for do RJ, o frete é R$20,00 e, para os demais estados, o frete é R$30,00
+*/
+
+
 function calcular() {
 
     let preco = 20.50
