@@ -17,6 +17,7 @@ O sistema precisa retornar o nome e a média de cada pessoa do time, quem teve o
 
 
 
+// ALGUMAS PARTES APRENDI DURANTE O PROCESSO COM AJUDA 
 
 let equipe = ['Matheus', 'Paulo', 'Alessandra'];
 let tarefas = [5, 7, 9];
